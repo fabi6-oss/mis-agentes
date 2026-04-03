@@ -1,1 +1,1 @@
-npm install -g @anthropic-ai/claude-code
+#mis-agentes
